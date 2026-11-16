@@ -73,13 +73,13 @@ Every number below names the cohort it counts and the command that reproduces it
 
 ### 📦 Live npm Downloads
 
-Across **379 published packages** in the [claude-code-plugins](https://www.npmjs.com/~jeremylongshore) namespace. Updated daily by GitHub Actions.
+Across **378 published packages** in the [claude-code-plugins](https://www.npmjs.com/~jeremylongshore) namespace. Updated daily by GitHub Actions.
 
 | Window        | All packages | Established (>30d) |
 | ------------- | -----------: | -----------------: |
-| Last 24 hours |          320 |                320 |
-| Last 7 days   |        8,621 |              8,621 |
-| Last 30 days  |       16,496 |             16,496 |
+| Last 24 hours |          820 |                820 |
+| Last 7 days   |        6,615 |              6,615 |
+| Last 30 days  |       28,431 |             28,431 |
 
 <sub>"Established" excludes packages first published within the last 30 days, so a bulk-publish event doesn't dominate the headline.</sub>
 
@@ -87,18 +87,18 @@ Across **379 published packages** in the [claude-code-plugins](https://www.npmjs
 
 | #   | Package                                                                                                                  | Last 30d |
 | --- | ------------------------------------------------------------------------------------------------------------------------ | -------: |
-| 1   | [`@intentsolutionsio/jeremy-vertex-engine`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-engine)       |    1,094 |
-| 2   | [`@intentsolutionsio/claude-pack`](https://www.npmjs.com/package/@intentsolutionsio/claude-pack)                         |    1,085 |
-| 3   | [`@intentsolutionsio/jeremy-adk-orchestrator`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-adk-orchestrator) |    1,076 |
-| 4   | [`@intentsolutionsio/jeremy-vertex-validator`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-validator) |    1,037 |
-| 5   | [`@intentsolutionsio/jeremy-vertex-ai`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-ai)               |      960 |
-| 6   | [`@intentsolutionsio/openrouter-pack`](https://www.npmjs.com/package/@intentsolutionsio/openrouter-pack)                 |      369 |
-| 7   | [`@intentsolutionsio/groq-pack`](https://www.npmjs.com/package/@intentsolutionsio/groq-pack)                             |      267 |
-| 8   | [`@intentsolutionsio/databricks-pack`](https://www.npmjs.com/package/@intentsolutionsio/databricks-pack)                 |      262 |
-| 9   | [`@intentsolutionsio/wallet-security-auditor`](https://www.npmjs.com/package/@intentsolutionsio/wallet-security-auditor) |      217 |
-| 10  | [`@intentsolutionsio/granola-pack`](https://www.npmjs.com/package/@intentsolutionsio/granola-pack)                       |      155 |
+| 1   | [`@intentsolutionsio/claude-pack`](https://www.npmjs.com/package/@intentsolutionsio/claude-pack)                         |    1,854 |
+| 2   | [`@intentsolutionsio/jeremy-vertex-ai`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-ai)               |    1,408 |
+| 3   | [`@intentsolutionsio/jeremy-vertex-engine`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-engine)       |    1,252 |
+| 4   | [`@intentsolutionsio/jeremy-adk-orchestrator`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-adk-orchestrator) |    1,202 |
+| 5   | [`@intentsolutionsio/jeremy-vertex-validator`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-validator) |    1,176 |
+| 6   | [`@intentsolutionsio/openrouter-pack`](https://www.npmjs.com/package/@intentsolutionsio/openrouter-pack)                 |      835 |
+| 7   | [`@intentsolutionsio/wallet-security-auditor`](https://www.npmjs.com/package/@intentsolutionsio/wallet-security-auditor) |      378 |
+| 8   | [`@intentsolutionsio/databricks-pack`](https://www.npmjs.com/package/@intentsolutionsio/databricks-pack)                 |      366 |
+| 9   | [`@intentsolutionsio/groq-pack`](https://www.npmjs.com/package/@intentsolutionsio/groq-pack)                             |      349 |
+| 10  | [`@intentsolutionsio/shopify-pack`](https://www.npmjs.com/package/@intentsolutionsio/shopify-pack)                       |      271 |
 
-<sub>Last refreshed 2026-10-30T06:22:52.519Z.</sub>
+<sub>Last refreshed 2026-11-16T01:01:58.635Z.</sub>
 
 <!-- NPM-STATS:END -->
 
